@@ -14,13 +14,11 @@ body {
 
 .foodle {
   text-align: center;
-
 }
 
 .see-food {
 	font-family: 'Pacifico', cursive;
   color: #4dd0e1;
-	/*color: #263238;*/
 	font-size: 75px;
 	margin-top: 55px;
 }
@@ -31,12 +29,10 @@ div.card {
 }
 
 .screenshot {
-  /*width: 200px;*/
   width: 100%;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-bottom: 75px;
   margin-left: 50px;
-  /*max-width: 200px;*/
 }
 
 footer.page-footer {
@@ -57,10 +53,20 @@ button.btn {
 #droidP {
   text-align: center;
   color: #4dd0e1;
+  font-size: 16px;
   font-weight: bold
 }
 #droidButton {
   text-align: center;
+}
+
+#icon {
+  text-align: center;
+}
+.fa-cutlery {
+  font-size: 50px;
+  /*color: #ff7043;*/
+  color: #263238;
 }
 
 /*div#home {*/
