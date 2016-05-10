@@ -1,11 +1,23 @@
 {
   "name": "foodle-homepage",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "favicon-setter": "^0.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffine-koch/Seefood-Homepage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tiffine-koch/Seefood-Homepage/issues"
+  },
+  "homepage": "https://github.com/tiffine-koch/Seefood-Homepage#readme",
+  "description": ""
 }

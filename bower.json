@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "ISC",
   "moduleType": [],
-  "homepage": "",
+  "homepage": "https://github.com/tiffine-koch/Seefood-Homepage",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -14,6 +14,7 @@
   ],
   "dependencies": {
     "angular": "^1.5.5",
-    "Materialize": "materialize#^0.97.6"
+    "Materialize": "materialize#^0.97.6",
+    "jquery": "^2.2.3"
   }
 }
